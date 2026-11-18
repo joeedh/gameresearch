@@ -1,0 +1,2 @@
+# Keep LF everywhere: core.autocrlf would otherwise check files out as CRLF.
+* text=auto eol=lf
