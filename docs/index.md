@@ -1,5 +1,9 @@
 # Docs index
 
+## Tasks
+
+- [tasks.md](tasks.md) — Master task list: high-level tasks by area, dependencies, milestones
+
 ## Pipeline
 
 End-to-end production pipeline for a narrative game built on Unreal.
